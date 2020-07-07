@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="91d621a7-84b5-4864-b0fe-26a1e21ce6cd" name="az" url="">
+        <fileTransfer rootFolder="/home/ubuntu/go/src/audit-hook" accessType="SFTP" host="20.195.17.199" port="22" sshConfigId="bd7f8073-80ae-4b24-9256-510d3b5ae98a" sshConfig="azure" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
